@@ -1,0 +1,5 @@
+.idea
+requirements.txt
+.ipynb_checkpoints
+# Project exclude paths
+/data/
